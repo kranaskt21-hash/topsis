@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+Topsis_Kashish_102316021.egg-info/PKG-INFO
+Topsis_Kashish_102316021.egg-info/SOURCES.txt
+Topsis_Kashish_102316021.egg-info/dependency_links.txt
+Topsis_Kashish_102316021.egg-info/entry_points.txt
+Topsis_Kashish_102316021.egg-info/requires.txt
+Topsis_Kashish_102316021.egg-info/top_level.txt
+topsis/__init__.py
+topsis/topsis.py
